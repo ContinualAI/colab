@@ -10,11 +10,15 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 ### How to run it
 
-1. Go to [Google Colab](colab.research.google.com) and sign in!
+1. Star the project :-)
 
-2. Go to the "GitHub" tab and type "continualai"
+2. Join our community on Slack: https://continualai.herokuapp.com/
 
-3. Pick a notebook an run it! :-)
+3. Go to [Google Colab](colab.research.google.com) and sign in!
+
+4. Go to the "GitHub" tab and type "continualai"
+
+5. Pick a notebook an run it! :-)
 
 ### How to contribute
 
