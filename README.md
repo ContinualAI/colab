@@ -22,7 +22,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 2. Join our community on Slack: https://continualai.herokuapp.com/
 
-3. Run a notebook in Google Colab or [clone it locally](https://help.github.com/articles/fork-a-repo/)
+3. Run a notebook/script in Google Colab or [clone it locally](https://help.github.com/articles/fork-a-repo/)
 
 5. Make your changes
 
