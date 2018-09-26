@@ -1,2 +1,32 @@
-# colab
-A ContinualAI repository for tutorials and demo running on Google Colaboratory.
+# ContinualAI Colab 
+<img src="https://continualai.herokuapp.com/badge.svg">
+
+Continual AI is an open research community on the topic of Continual Learning and AI! :-)
+The aim of the project is to provide a starting point for researchers, developers and AI enthusiasts who share an interest or are willing to learn more and/or contribute to Continual/Lifelong Learning.
+We are building an open-source, collaborative wiki at [continualai.org](http://continualai.org) as well as creating a community of CL enthusiasts! Join us today **[on slack](https://continualai.herokuapp.com)**! :D
+
+----
+
+*ContinualAI Colab* is a repository for tutorials and demo running on Google Colaboratory. The central idea is to collaboratively create a number of notebooks and scripts (for demo, showcasing & tutorials) which can be directly imported in Google Colab and are related to Continual Learning. Now, spread the power of Continual Learning! :-)
+
+---
+
+### How to run it
+
+1. Go to [Google Colab](colab.research.google.com)!
+
+2. Go to the "GitHub" tab and type "continualai"
+
+3. Pick a notebook an run it! :-)
+
+### How to contribute
+
+1. Star the project :-)
+
+2. Join our community on Slack: https://continualai.herokuapp.com/
+
+3. Run a notebook in Google Colab or [clone it locally](https://help.github.com/articles/fork-a-repo/)
+
+5. Make your changes
+
+6. Make a [Pull Request](https://services.github.com/on-demand/github-cli/open-pull-request-github)! :D
