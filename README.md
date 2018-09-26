@@ -16,7 +16,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 3. Go to [Google Colab](colab.research.google.com) and sign in!
 
-4. Go to the "GitHub" tab and type "continualai"
+4. Go to the "*GitHub*" tab and type "*continualai*"
 
 5. Pick a notebook an run it! :-)
 
