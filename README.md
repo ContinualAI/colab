@@ -1,4 +1,4 @@
-# ContinualAI Colab 
+# Continual AI Colab 
 <img src="https://continualai.herokuapp.com/badge.svg">
 
 **Continual AI** is an open research community on the topic of Continual Learning and AI! :-)
