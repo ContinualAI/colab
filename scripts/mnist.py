@@ -21,7 +21,8 @@ def save_mnist():
     mnist = {}
     for name in filename[:2]:
         with gzip.open(name[1], 'rb') as f:
-            mnist[name[0]] = np.frombuffer(f.read(), np.uint8, offset=16).reshape(-1,28*28)
+            tmp = np.frombuffer(f.read(), np.uint8, offset=16)
+            mnist[name[0]] = tmp.reshape(-1,1,28,28).astype(np.float32) / 255
     for name in filename[-2:]:
         with gzip.open(name[1], 'rb') as f:
             mnist[name[0]] = np.frombuffer(f.read(), np.uint8, offset=8)
