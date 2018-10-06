@@ -14,7 +14,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 2. Join our community on Slack: https://continualai.herokuapp.com/
 
-3. Go to [Google Colab](colab.research.google.com) and sign in!
+3. Go to [Google Colab](https://colab.research.google.com) and sign in!
 
 4. Go to the "*GitHub*" tab and type "*continualai*"
 
