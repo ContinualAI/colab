@@ -1,0 +1,12 @@
+test_iter: 1
+test_interval: 1
+base_lr: 0.01
+lr_policy: "step"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+stepsize: 100000000
+solver_mode: GPU
+random_seed: 1
+net: "net.prototxt"
+snapshot_format: HDF5
