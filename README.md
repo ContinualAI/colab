@@ -10,24 +10,14 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 ### How to run it
 
-1. Star the project :-)
+1. Go to [Google Colab](https://colab.research.google.com) and sign in!
 
-2. Join our community on Slack: https://continualai.herokuapp.com/
+2. Go to the "*GitHub*" tab and type "*continualai*"
 
-3. Go to [Google Colab](https://colab.research.google.com) and sign in!
-
-4. Go to the "*GitHub*" tab and type "*continualai*"
-
-5. Pick a notebook an run it! :-)
+3. Pick a notebook an run it! :-)
 
 ### How to contribute
 
-1. Star the project :-)
+We have a detailed account of the contribution procedure and guidelines in the corresponding file: [CONTRIBUTING](CONTRIBUTING.md)
 
-2. Join our community on Slack: https://continualai.herokuapp.com/
-
-3. Run a notebook/script in Google Colab or [clone it locally](https://help.github.com/articles/fork-a-repo/)
-
-5. Make your changes
-
-6. Make a [Pull Request](https://services.github.com/on-demand/github-cli/open-pull-request-github)! :D
+You can also join our community on Slack for discussions: [ContinualAI Slack](https://continualai.herokuapp.com/)
