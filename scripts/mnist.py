@@ -18,10 +18,6 @@ def download_file(url, filename):
     opener.addheader('User-Agent', 'Mozilla/5.0')
     opener.retrieve(url, filename)
 
-opener = request.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-request.install_opener(opener)
-
 def download_mnist():
     base_url = "http://yann.lecun.com/exdb/mnist/"
     for name in filename:
