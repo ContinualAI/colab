@@ -11,11 +11,18 @@ filename = [
 ["test_labels","t10k-labels-idx1-ubyte.gz"]
 ]
 
+# quick fix for https://github.com/pytorch/vision/issues/1938
+# yann.lecun.com server has moved under CloudFlare protection
+def download_file(url, filename):
+    opener = request.URLopener()
+    opener.addheader('User-Agent', 'Mozilla/5.0')
+    opener.retrieve(url, filename)
+
 def download_mnist():
     base_url = "http://yann.lecun.com/exdb/mnist/"
     for name in filename:
         print("Downloading "+name[1]+"...")
-        request.urlretrieve(base_url+name[1], name[1])
+        download_file(base_url+name[1], name[1])
     print("Download complete.")
 
 def save_mnist():
