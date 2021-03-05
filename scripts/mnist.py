@@ -11,6 +11,12 @@ filename = [
 ["test_labels","t10k-labels-idx1-ubyte.gz"]
 ]
 
+# quick fix for https://github.com/pytorch/vision/issues/1938
+# yann.lecun.com server has moved under CloudFlare protection
+opener = request.build_opener()
+opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+request.install_opener(opener)
+
 def download_mnist():
     base_url = "http://yann.lecun.com/exdb/mnist/"
     for name in filename:
