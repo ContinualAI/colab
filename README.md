@@ -18,17 +18,15 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 ### Avalanche
 *Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](github.com/continualAI/avalanche)*
 
-- **Avalanche Installation** [notebook](./notebooks/avalanche/avalanche_install.ipynb)
-- **Coding From Scratch vs Avalanche** [notebook](./notebooks/avalanche/with_and_without_avalanche.ipynb)
-- **From Zero to Hero 1: Introduction** [notebook](./notebooks/avalanche/01_fzth_tutorial_indroduction.ipynb)
-- **From Zero to Hero 2: Models** [notebook](./notebooks/avalanche/02_fzth_tutorial_models.ipynb)
-- **From Zero to Hero 3: Benchmarks** [notebook](./notebooks/avalanche/03_fzth_tutorial_benchmarks.ipynb)
-- **From Zero to Hero 4: Training** [notebook](./notebooks/avalanche/04_fzth_training.ipynb)
-- **From Zero to Hero 5: Evaluation** [notebook](./notebooks/avalanche/05_fzth_evaluation.ipynb)
-- **From Zero to Hero 6: Logging** [notebook](./notebooks/avalanche/06_fzth_logging.ipynb)
-- **From Zero to Hero 7: Putting It All Together** [notebook](./notebooks/avalanche/07_fzth_all_together.ipynb)
-- **From Zero to Hero 8: Extending Avalanche** [notebook](./notebooks/avalanche/08_fzth_extending.ipynb)
-- **From Zero to Hero 9: Contributing** [notebook](./notebooks/avalanche/09_fzth_contribute.ipynb)
+- **From Zero to Hero 1: Introduction** [notebook](notebooks/avalanche/introduction.ipynb)
+- **From Zero to Hero 2: Models** [notebook](notebooks/avalanche/models.ipynb)
+- **From Zero to Hero 3: Benchmarks** [notebook](notebooks/avalanche/2.-benchmarks.ipynb)
+- **From Zero to Hero 4: Training** [notebook](notebooks/avalanche/3.-training.ipynb)
+- **From Zero to Hero 5: Evaluation** [notebook](notebooks/avalanche/4.-evaluation.ipynb)
+- **From Zero to Hero 6: Logging** [notebook](notebooks/avalanche/loggers.ipynb)
+- **From Zero to Hero 7: Putting It All Together** [notebook](notebooks/avalanche/6.-putting-all-together.ipynb)
+- **From Zero to Hero 8: Extending Avalanche** [notebook](notebooks/avalanche/5.-extending-avalanche.ipynb)
+- **From Zero to Hero 9: Contributing** [notebook](notebooks/avalanche/6.-contribute-to-avalanche.ipynb)
 
 ## How to run it
 
@@ -38,9 +36,6 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 2. Go to the "*GitHub*" tab and type "*continualai*"
 
 3. Pick a notebook an run it! :-)
-
-### Locally
-*local environment coming soon*
 
 ## How to contribute
 
