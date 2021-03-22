@@ -14,6 +14,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 - **Intro to Deep Learning Frameworks** [notebook](./notebooks/intro_to_dl_frameworks.ipynb)
 - **Replay Strategy** [notebook](./notebooks/CL_via_simple_rehearsal.ipynb)
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
+- **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 
 ### Avalanche
 *Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](github.com/continualAI/avalanche)*
