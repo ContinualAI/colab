@@ -1,10 +1,10 @@
-# Continual AI - Colab 
+# ContinualAI - Colab 
 <img src="https://continualai.herokuapp.com/badge.svg">
 
-**Continual AI** is an open research community on the topic of Continual Learning and AI! :-)
+**ContinualAI** is an open research community on the topic of Continual Learning and AI! :-)
 We are building an open-source, collaborative wiki at [continualai.org](http://continualai.org) as well as creating a community of CL enthusiasts! Join us today **[on slack](https://continualai.herokuapp.com)**! :D
 
-**Continual AI - Colab** is a repository meant for tutorials and demo running on Google Colaboratory. The central idea is to collaboratively create a number of notebooks and scripts (for demo, showcasing & tutorials) which can be directly imported in Google Colab and are related to Continual Learning. Now, spread the power of Continual Learning! :-)
+**ContinualAI - Colab** is a repository meant for tutorials and demo running on Google Colaboratory. The central idea is to collaboratively create a number of notebooks and scripts (for demo, showcasing & tutorials) which can be directly imported in Google Colab and are related to Continual Learning. Now, spread the power of Continual Learning! :-)
 
 ---
 
@@ -14,6 +14,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 - **Intro to Deep Learning Frameworks** [notebook](./notebooks/intro_to_dl_frameworks.ipynb)
 - **Replay Strategy** [notebook](./notebooks/CL_via_simple_rehearsal.ipynb)
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
+- **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 
 ### Avalanche
 *Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](github.com/continualAI/avalanche)*
