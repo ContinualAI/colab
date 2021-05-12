@@ -12,9 +12,17 @@ filename = [
     ["test_labels", "t10k-labels-idx1-ubyte.gz"]
 ]
 
+def remove_not_working_mirrors():
+  if not hasattr(MNIST, 'mirrors'):
+    return
+  
+  new_mirrors = [x for x in MNIST.mirrors if "yann.lecun.com" not in x]
+  if len(new_mirrors) == 0:
+    return
 
-# quick fix for https://github.com/pytorch/vision/issues/1938
-# yann.lecun.com server has moved under CloudFlare protection
+  MNIST.mirrors = new_mirrors
+
+
 def download_file(url, filename):
     opener = request.URLopener()
     opener.addheader('User-Agent', 'Mozilla/5.0')
@@ -22,7 +30,11 @@ def download_file(url, filename):
 
 
 def download_mnist():
-    base_url = "http://yann.lecun.com/exdb/mnist/"
+    remove_not_working_mirrors()
+    if not hasattr(MNIST, 'mirrors'):
+      base_url = "https://ossci-datasets.s3.amazonaws.com/mnist/"
+    else:
+      base_url = MNIST.mirrors[0]
     for name in filename:
         print("Downloading " + name[1] + "...")
         download_file(base_url + name[1], name[1])
@@ -51,14 +63,6 @@ def init():
         download_mnist()
         save_mnist()
 
-    prev_mnist_urls = MNIST.resources
-    new_resources = [
-        ('https://storage.googleapis.com/cvdf-datasets/mnist/train-images-idx3-ubyte.gz', prev_mnist_urls[0][1]),
-        ('https://storage.googleapis.com/cvdf-datasets/mnist/train-labels-idx1-ubyte.gz', prev_mnist_urls[1][1]),
-        ('https://storage.googleapis.com/cvdf-datasets/mnist/t10k-images-idx3-ubyte.gz', prev_mnist_urls[2][1]),
-        ('https://storage.googleapis.com/cvdf-datasets/mnist/t10k-labels-idx1-ubyte.gz', prev_mnist_urls[3][1])
-    ]
-    MNIST.resources = new_resources
     MNIST(path.join('data', 'mnist'), download=True)
 
 
