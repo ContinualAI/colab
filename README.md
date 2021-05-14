@@ -2,7 +2,7 @@
 <img src="https://continualai.herokuapp.com/badge.svg">
 
 **ContinualAI** is an open research community on the topic of Continual Learning and AI! :-)
-We are building an open-source, collaborative wiki at [continualai.org](http://continualai.org) as well as creating a community of CL enthusiasts! Join us today **[on slack](https://continualai.herokuapp.com)**! :D
+We are building an open-source, collaborative wiki at [continualai.org](https://continualai.org) as well as creating a community of CL enthusiasts! Join us today **[on slack](https://continualai.herokuapp.com)**! :D
 
 **ContinualAI - Colab** is a repository meant for tutorials and demo running on Google Colaboratory. The central idea is to collaboratively create a number of notebooks and scripts (for demo, showcasing & tutorials) which can be directly imported in Google Colab and are related to Continual Learning. Now, spread the power of Continual Learning! :-)
 
@@ -17,7 +17,7 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 - **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 
 ### Avalanche
-*Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](github.com/continualAI/avalanche)*
+*Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](https://github.com/continualAI/avalanche)*
 
 - **From Zero to Hero 1: Introduction** [notebook](notebooks/avalanche/introduction.ipynb)
 - **From Zero to Hero 2: Models** [notebook](notebooks/avalanche/models.ipynb)
