@@ -10,4 +10,6 @@ wget https://vlomonaco.github.io/core50/data/labels.pkl
 wget https://vlomonaco.github.io/core50/data/labels2names.pkl
 echo "Starting to extract CORe50-mini zip file..."
 unzip core50_32x32.zip
+unzip batches_filelists.zip
+unzip batches_filelists_NICv2.zip
 echo "Done."
