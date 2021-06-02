@@ -1,3 +1,5 @@
+mkdir core50
+cd core50
 echo "Starting CORe50-mini download..."
 wget http://vps.continualai.org/data/core50_32x32.zip
 wget https://vlomonaco.github.io/core50/data/batches_filelists.zip
