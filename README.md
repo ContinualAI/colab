@@ -19,15 +19,17 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 ### Avalanche
 *Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](https://github.com/continualAI/avalanche)*
 
-- **From Zero to Hero 1: Introduction** [notebook](notebooks/avalanche/introduction.ipynb)
-- **From Zero to Hero 2: Models** [notebook](notebooks/avalanche/models.ipynb)
-- **From Zero to Hero 3: Benchmarks** [notebook](notebooks/avalanche/2.-benchmarks.ipynb)
-- **From Zero to Hero 4: Training** [notebook](notebooks/avalanche/3.-training.ipynb)
-- **From Zero to Hero 5: Evaluation** [notebook](notebooks/avalanche/4.-evaluation.ipynb)
-- **From Zero to Hero 6: Logging** [notebook](notebooks/avalanche/loggers.ipynb)
-- **From Zero to Hero 7: Putting It All Together** [notebook](notebooks/avalanche/6.-putting-all-together.ipynb)
-- **From Zero to Hero 8: Extending Avalanche** [notebook](notebooks/avalanche/5.-extending-avalanche.ipynb)
-- **From Zero to Hero 9: Contributing** [notebook](notebooks/avalanche/6.-contribute-to-avalanche.ipynb)
+:exclamation: The notebook are stored in the [Avalanche repository](https://github.com/continualAI/avalanche).
+
+- **From Zero to Hero 1: Introduction** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/01_introduction.ipynb)
+- **From Zero to Hero 2: Models** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/02_models.ipynb)
+- **From Zero to Hero 3: Benchmarks** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/03_benchmarks.ipynb)
+- **From Zero to Hero 4: Training** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/04_training.ipynb)
+- **From Zero to Hero 5: Evaluation** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/05_evaluation.ipynb)
+- **From Zero to Hero 6: Logging** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/06_loggers.ipynb)
+- **From Zero to Hero 7: Putting It All Together** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/07_putting-all-together.ipynb)
+- **From Zero to Hero 8: Extending Avalanche** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/08_extending-avalanche.ipynb)
+- **From Zero to Hero 9: Contributing** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/09_contribute-to-avalanche.ipynb)
 
 ## How to run it
 
