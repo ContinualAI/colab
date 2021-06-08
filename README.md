@@ -16,21 +16,6 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
 - **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 
-### Avalanche
-*Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](https://github.com/continualAI/avalanche)*
-
-:exclamation: The notebook are stored in the [Avalanche repository](https://github.com/continualAI/avalanche).
-
-- **From Zero to Hero 1: Introduction** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/01_introduction.ipynb)
-- **From Zero to Hero 2: Models** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/02_models.ipynb)
-- **From Zero to Hero 3: Benchmarks** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/03_benchmarks.ipynb)
-- **From Zero to Hero 4: Training** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/04_training.ipynb)
-- **From Zero to Hero 5: Evaluation** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/05_evaluation.ipynb)
-- **From Zero to Hero 6: Logging** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/06_loggers.ipynb)
-- **From Zero to Hero 7: Putting It All Together** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/07_putting-all-together.ipynb)
-- **From Zero to Hero 8: Extending Avalanche** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/08_extending-avalanche.ipynb)
-- **From Zero to Hero 9: Contributing** [notebook](https://github.com/ContinualAI/avalanche/blob/master/notebooks/from-zero-to-hero-tutorial/09_contribute-to-avalanche.ipynb)
-
 ## How to run it
 
 ### Colab
