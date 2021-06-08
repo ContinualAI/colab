@@ -16,19 +16,6 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
 - **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 
-### Avalanche
-*Avalanche is a new end-to-end library for Continual Learning, developed and mantained by Continual AI. [Check it out!](https://github.com/continualAI/avalanche)*
-
-- **From Zero to Hero 1: Introduction** [notebook](notebooks/avalanche/introduction.ipynb)
-- **From Zero to Hero 2: Models** [notebook](notebooks/avalanche/models.ipynb)
-- **From Zero to Hero 3: Benchmarks** [notebook](notebooks/avalanche/2.-benchmarks.ipynb)
-- **From Zero to Hero 4: Training** [notebook](notebooks/avalanche/3.-training.ipynb)
-- **From Zero to Hero 5: Evaluation** [notebook](notebooks/avalanche/4.-evaluation.ipynb)
-- **From Zero to Hero 6: Logging** [notebook](notebooks/avalanche/loggers.ipynb)
-- **From Zero to Hero 7: Putting It All Together** [notebook](notebooks/avalanche/6.-putting-all-together.ipynb)
-- **From Zero to Hero 8: Extending Avalanche** [notebook](notebooks/avalanche/5.-extending-avalanche.ipynb)
-- **From Zero to Hero 9: Contributing** [notebook](notebooks/avalanche/6.-contribute-to-avalanche.ipynb)
-
 ## How to run it
 
 ### Colab
