@@ -15,6 +15,7 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 - **Replay Strategy** [notebook](./notebooks/CL_via_simple_rehearsal.ipynb)
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
 - **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
+- **Genetic Pseudo Rehearsal** [notebook](./notebooks/Genetic_Pseudo_Rehearsal_Demo.ipynb)
 
 ## How to run it
 
