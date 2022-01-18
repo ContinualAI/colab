@@ -16,6 +16,8 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 - **Generative Replay** [notebook](./notebooks/intro_to_generative_replay.ipynb)
 - **Progressive Neural Networks** [notebook](./notebooks/CL_via_PNN.ipynb)
 - **Genetic Pseudo Rehearsal** [notebook](./notebooks/Genetic_Pseudo_Rehearsal_Demo.ipynb)
+- **Permuted and split mnist** [notebook](./notebooks/permuted_and_split_mnist.ipynb)
+- **Forgetting with one neuron** [notebook](./notebooks/forgetting_with_one_neuron.ipynb)
 
 ## How to run it
 
