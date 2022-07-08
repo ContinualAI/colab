@@ -18,6 +18,7 @@ We are building an open-source, collaborative wiki at [continualai.org](https://
 - **Genetic Pseudo Rehearsal** [notebook](./notebooks/Genetic_Pseudo_Rehearsal_Demo.ipynb)
 - **Permuted and split mnist** [notebook](./notebooks/permuted_and_split_mnist.ipynb)
 - **Forgetting with one neuron** [notebook](./notebooks/forgetting_with_one_neuron.ipynb)
+- **Avalanche Demo** [notebook](./notebooks/avalanche_demo.ipynb)
 
 ## How to run it
 
